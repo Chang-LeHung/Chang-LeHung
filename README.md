@@ -1,5 +1,5 @@
 ### Hi there, I'm Chang-LeHung 👋 
-For computer science study, I love the sentence "**What I can not create, I do not understand**" that comes from Richard Freman most.
+For computer science study, I love the sentence "**What I can not create, I do not understand**" that comes from Richard Feynman most.
 
 |Stats|Commits|
 |--|--|
