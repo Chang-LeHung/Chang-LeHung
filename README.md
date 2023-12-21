@@ -1,9 +1,11 @@
 ### Hi there, I'm Chang-LeHung 👋 
 For computer science study, I love the sentence "**What I can not create, I do not understand**" that comes from Richard Feynman most.
 
-I've written a series tutorials(Chinese) to introduce and demystify the CPython virtual machine, which is available at https://github.com/Chang-LeHung/dive-into-cpython.
+### Dive into CPython
+I've written a series tutorials(in Chinese) to introduce and demystify the CPython virtual machine, which is available at [Dive into CPython](https://github.com/Chang-LeHung/dive-into-cpython).
 
-
+### SPL
+SPL is a holistic implementation of a newly crafted programming language in Java, where I've tailored its grammar, drawing inspiration from the syntaxes of Java, C/C++, Python, etc. Now I've completed both the compiler and virtual machine. It can support functions, classes, decorators, and functional programming. SPL embodies an interactive shell to provide a better programming experience. In SPL, you can directly inspect the bytecode and exception table of a function by using the 'dis' method. Visit [SPL](https://github.com/Chang-LeHung/SPL) for more details.
 
 |Stats|Commits|
 |--|--|
