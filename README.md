@@ -1,6 +1,10 @@
 ### Hi there, I'm Chang-LeHung 👋 
 For computer science study, I love the sentence "**What I can not create, I do not understand**" that comes from Richard Feynman most.
-I've written a series tutorials(Chinese) to introduce the CPython virtual machine. If you are interested in the principle and implementation of it, you can visit https://github.com/Chang-LeHung/dive-into-cpython.
+
+I've written a series tutorials(Chinese) to introduce and demystify the CPython virtual machine, which is available at https://github.com/Chang-LeHung/dive-into-cpython.
+
+
+
 |Stats|Commits|
 |--|--|
 |![](https://github-readme-stats.vercel.app/api?username=Chang-LeHung&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chang-LeHung&theme=buefy&utcOffset=8) |
