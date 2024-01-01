@@ -9,15 +9,15 @@ SPL is a holistic implementation of a newly crafted programming language in Java
 
 |Stats|Commits|
 |--|--|
-|![](https://github-readme-stats.vercel.app/api?username=Chang-LeHung&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chang-LeHung&theme=buefy&utcOffset=8) |
+|![](https://github-readme-stats.vercel.app/api?username=Chang-LeHung&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide_title=true&hide_border=true&layout=compact&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chang-LeHung&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite) |
 
 
 
 <!--
 **Chang-LeHung/Chang-LeHung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chang-LeHung&theme=buefy&hide_border=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chang-LeHung&theme=flag_india) |
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chang-LeHung&theme=buefy&hide_border=true&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chang-LeHung&theme=flag_india&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF) |
 Here are some ideas to get you started:
-
+http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chang-LeHung&theme=buefy&utcOffset=8&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
