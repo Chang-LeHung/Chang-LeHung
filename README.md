@@ -7,6 +7,10 @@ I've written a series tutorials(in Chinese) to introduce and demystify the CPyth
 ### SPL
 SPL is a holistic implementation of a newly crafted programming language in Java, where I've tailored its grammar, drawing inspiration from the syntaxes of Java, C/C++, Python, etc. Additionally, SPL is a coroutine-oriented programming language. Now I've completed both the compiler and virtual machine. It can support functions, closures, classes, decorators, reflections, functional programming, etc. SPL embodies an interactive shell to provide a better programming experience. In SPL, you can directly inspect the bytecode and exception table of a function by using the `dis` method. Visit [SPL](https://github.com/Chang-LeHung/SPL) for more details.
 
+### OpenMP
+If you want to know how OpenMP works, what the compiler does, and what's in the OpenMP runtime library, I've written some [tutorials](https://github.com/Chang-LeHung/openmp-tutorial) to explain these all.
+
+
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Chang-LeHung&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chang-LeHung&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
