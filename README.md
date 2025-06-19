@@ -1,5 +1,5 @@
 ### Hi there, I'm Chang-LeHung 👋 
-For computer science study, I love the sentence "**What I can not create, I do not understand**" that comes from Richard Feynman most.
+For computer science study, I love the sentence "**What I can not create, I do not understand**" that comes from Richard Feynman. I'm an enthusiast of programming languages, because the limits of your programming language are the limits of your CS world.
 
 ### Dive into CPython
 I've written a series tutorials(in Chinese) to introduce and demystify the CPython virtual machine, which are available at [Dive into CPython](https://github.com/Chang-LeHung/dive-into-cpython). These tutorials offer an in-depth exploration of Python's internal data structures, elucidating the principles underlying functions, closures, classes, bytecode design, and more.
@@ -8,7 +8,7 @@ I've written a series tutorials(in Chinese) to introduce and demystify the CPyth
 SPL is a holistic implementation of a newly crafted programming language in Java, where I've tailored its grammar, drawing inspiration from the syntaxes of Java, C/C++, Python, etc. Additionally, SPL is a coroutine-oriented programming language. Now I've completed both the compiler and virtual machine. It can support functions, closures, classes, decorators, reflections, functional programming, etc. SPL embodies an interactive shell to provide a better programming experience. In SPL, you can directly inspect the bytecode and exception table of a function by using the `dis` method. Visit [SPL](https://github.com/Chang-LeHung/SPL) for more details.
 
 ### OpenMP
-If you want to know how OpenMP works, what the compiler does, and what's in the OpenMP runtime library, I've written some [tutorials](https://github.com/Chang-LeHung/openmp-tutorial) to explain these all.
+If you want to know how OpenMP works, what the compiler does, and what's in the OpenMP runtime library, I've written some [tutorials](https://github.com/Chang-LeHung/openmp-tutorial) to explain all.
 
 
 
