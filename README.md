@@ -1,6 +1,9 @@
 ### Hi there, I'm Chang-LeHung 👋 
 For computer science study, I love the sentence "**What I can not create, I do not understand**" that comes from Richard Feynman. I'm an enthusiast of programming languages, because the limits of your programming language are the limits of your CS world.
 
+🔥 News
+2025.06.27  牛马预备选手 →	🐮🐎!
+
 ### Dive into CPython
 I've written a series tutorials(in Chinese) to introduce and demystify the CPython virtual machine, which are available at [Dive into CPython](https://github.com/Chang-LeHung/dive-into-cpython). These tutorials offer an in-depth exploration of Python's internal data structures, elucidating the principles underlying functions, closures, classes, bytecode design, and more.
 
